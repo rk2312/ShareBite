@@ -1,0 +1,18 @@
+.request-item {
+    border: 1px solid #ccc; /* Border around each request */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Padding inside each request */
+    margin: 10px 0; /* Space between requests */
+    background-color: #f9f9f9; /* Light background color */
+    transition: background-color 0.3s; /* Smooth background color transition */
+  }
+  
+  .request-item:hover {
+    background-color: #e0f7fa; /* Change background color on hover */
+  }
+  
+  h3 {
+    margin: 0 0 10px; /* Margin for the request number */
+    color: #00796b; /* Color for the request title */
+  }
+  
